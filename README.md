@@ -2,7 +2,7 @@
 Aplikacja do projektowania animowanych scen 3D zrealizowana w ramach pracy inżynierskiej // Application for designing animated 3D scenes developed for bachelor's thesis
 
 
-FUNKCJE APLIKACJI
+## Funkcje aplikacji
 
 - załadowanie siatki obiektu z pliku *.obj (lista trójkątów indeksowych)
 - przesuwanie, rotacja, skalowanie i zmiana koloru powierzchni obiektów w scenie
@@ -16,7 +16,7 @@ FUNKCJE APLIKACJI
 - eksportowanie sekwencji scen do pliku *.avi
 
 
-OBSŁUGA APLIKACJI
+## Obsługa aplikacji
 
 W aktualnej wersji do działania plikacja wymaga plików 3DAnimApp.cpp, 3DAnimApp.h i font.txt oraz biblioteki OpenCV. Pliki *.obj z siatkami obiektów, które mają być 
 załadowane w aplikacji, muszą być umieszczone w folderze razem z pozostałymi plikami aplikacji, a ich nazwy muszą być wpisane do kolejnych wierszy pliku objects.txt.
@@ -28,7 +28,9 @@ a także dodawanie scen (L SHIFT) i ich usuwanie (DELETE). W celu edycji zawarto
 Niezależnie od trybu w którym znajduje się aplikacja w dany momencie, interfejs graficzny jest podzielony na sześć okien, których zawartość zmienia się 
 zależnie od aktualnie wykonywanej funkcji. Wyróżnione zostały okna nawigacji (1), podglądu (2), osi czasu (3), zawartości (4), zarządzania (5) i edycji (6).
 
+
 <img width="1348" height="1078" alt="Image" src="https://github.com/user-attachments/assets/97f85feb-e12d-4892-be20-80be7b32a015" />
+
 
 W trybie edycji sceny w oknie zawartości przedstawiona jest lista elementów wybranego rodzaju - obiektów ('O'), kamer ('P') lub źródeł światła ('L').
 W oknie zarządzania wyświetlone są dostępne opcje - wybór elementu z listy (UP/DOWN), jego usunięcie (DELETE) oraz dodanie nowego (L SHIFT). W przypadku dodawania
