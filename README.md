@@ -29,7 +29,7 @@ Niezależnie od trybu w którym znajduje się aplikacja w dany momencie, interfe
 zależnie od aktualnie wykonywanej funkcji. Wyróżnione zostały okna nawigacji (1), podglądu (2), osi czasu (3), zawartości (4), zarządzania (5) i edycji (6).
 
 
-<center><img width="774" height="537" alt="Image" src="https://github.com/user-attachments/assets/97f85feb-e12d-4892-be20-80be7b32a015" /></center>
+<center><img width="774" height="537" alt="Image" src="https://github.com/user-attachments/assets/97f85feb-e12d-4892-be20-80be7b32a015"></center>
 
 
 W trybie edycji sceny w oknie zawartości przedstawiona jest lista elementów wybranego rodzaju - obiektów ('O'), kamer ('P') lub źródeł światła ('L').
