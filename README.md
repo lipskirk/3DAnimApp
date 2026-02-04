@@ -13,12 +13,12 @@ Aplikacja do projektowania animowanych scen 3D zrealizowana w ramach pracy inży
 - renderowanie projektowanej sceny w czasie rzeczywistym
 - tworzenie wielu scen i przycinanie ich oraz ustawianie w sekwencji
 - zapisywanie i wczytywanie sceny do/z pliku *.txt
-- eksportowanie sekwencji scen do pliku *.avi
+- eksport sekwencji scen do pliku *.avi
 
 
 ## Obsługa aplikacji
 
-W aktualnej wersji do działania plikacja wymaga plików 3DAnimApp.cpp, 3DAnimApp.h i font.txt oraz biblioteki OpenCV. Pliki *.obj z siatkami obiektów, które mają być 
+W aktualnej wersji do działania aplikacja wymaga plików 3DAnimApp.cpp, 3DAnimApp.h i font.txt oraz biblioteki OpenCV. Pliki *.obj z siatkami obiektów, które mają być 
 załadowane w aplikacji, muszą być umieszczone w folderze razem z pozostałymi plikami aplikacji, a ich nazwy muszą być wpisane do kolejnych wierszy pliku objects.txt.
 
 Po uruchomieniu aplikacji wyświetlony zostaje interfejs graficzny w trybie edycji sekwencji scen, gdzie możliwe jest przełączanie wybranej sceny (UP/DOWN),
